@@ -6,4 +6,5 @@ package com.example.pisuro.rebasetest;
 public class Java {
 
     //jakis komentarz w zmianie
+    //nowe zmiany
 }
